@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93917d26-aa78-42bd-bdc7-fc62419f95b2": {
+      "ProjectGuid": "93917d26-aa78-42bd-bdc7-fc62419f95b2",
+      "DisplayName": "PvpPlugin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

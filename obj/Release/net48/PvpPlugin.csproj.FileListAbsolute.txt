@@ -1,0 +1,5 @@
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Release\net48\PvpPlugin.csproj.AssemblyReference.cache
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Release\net48\PvpPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Release\net48\PvpPlugin.AssemblyInfoInputs.cache
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Release\net48\PvpPlugin.AssemblyInfo.cs
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Release\net48\PvpPlugin.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\PvpPlugin.deps.json
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\PvpPlugin.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\ref\PvpPlugin.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\PvpPlugin.pdb
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\OTAPI.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\TerrariaServer.exe
+C:\Users\yd\Documents\CsProjects\PvpPlugin\bin\Debug\net6.0\TShockAPI.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.csproj.AssemblyReference.cache
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.AssemblyInfoInputs.cache
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.AssemblyInfo.cs
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.csproj.CoreCompileInputs.cache
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.csproj.CopyComplete
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\ref\PvpPlugin.dll
+C:\Users\yd\Documents\CsProjects\PvpPlugin\obj\Debug\net6.0\PvpPlugin.pdb
